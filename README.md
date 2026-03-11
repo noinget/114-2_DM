@@ -29,6 +29,7 @@
 | 授課對象 | 大二以上 |
 | 每週上課 | 3 小時 |
 | 教科書 | 機器學習課程教學大綱 Ch0 ~ Ch21 |
+| 課程 Colab 程式 | [Google Colab for AI](https://sites.google.com/view/oneline-python/google-colab-for-ai?authuser=0) |
 | 實作環境 | Google Colab、Python + Anaconda、GitHub、VS Code |
 
 ## 課程說明
